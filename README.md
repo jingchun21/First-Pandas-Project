@@ -7,3 +7,5 @@ Meanwhile, when I tried to create a datafrom but I forgot to add the columns nam
 add more columns to df step by step. then I wrote the code df= df['column']*2. Then all other columns are gone. This frustrate me a lot.
 when you look at my codes, I have to rerun back and forth or add something else.
 If somebody can give me advice, I will apprecite your help. 
+I updated the code and make it more clean and better. when I update it, I had some other problems. like I used dropna (how = 'all), somehow there are still na values. then I have to use dropna(axis=0). I still dont know why the first one is not working.
+It is fun!!!
