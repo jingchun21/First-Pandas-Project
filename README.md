@@ -1,5 +1,5 @@
 # First-Pandas-Project
-Sale Projct
+Sale Project
 It is my first project. It was harder and funnier than I thought. First I have to rerun everthing on the second and other days. 
 It makes the table having more and more repeats. I didn't realize it till I get unexpected results. I have to figure out the reasons.
 I am happy I did find the causes. Then I decide to save all the datafram to csv file. so I don't need to rerun from the beginning. 
